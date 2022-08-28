@@ -3,3 +3,4 @@ Develop1 - +Feature2 +Feature1
 Feature1/2 - step1
 Feature1/2 - step2
 Feature1 - step3
+Fix bug on release
