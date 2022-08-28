@@ -1,0 +1,11 @@
+Start
+<<<<<<< HEAD
+Develop1 - +Feature2
+Feature2 - step1
+Feature2 - step2
+=======
+Develop1
+Feature1 - step1
+Feature1 - step2
+Feature1 - step3
+>>>>>>> Feature1
